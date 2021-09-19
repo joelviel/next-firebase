@@ -1,0 +1,23 @@
+{
+  "name": "louve-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx next dev -p 4000",
+    "build": "npx next build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@mui/material": "^5.0.0",
+    "firebase": "^9.0.2",
+    "next": "^7.0.2",
+    "nprogress": "^0.2.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
